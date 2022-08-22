@@ -1,4 +1,4 @@
-Hey there 👋,
+Hey there, I'm Petar Bozhkov 👋
 - 🏫 Student at SoftUni and New Bulgarian University.
 - 🌱 I’m currently learning Python Fundamentals.
 - 📫 How to reach me: Instagram - @p.bozhkov
