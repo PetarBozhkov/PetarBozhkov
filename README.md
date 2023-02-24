@@ -1,5 +1,5 @@
 Hey there, I'm Petar Bozhkov 👋
-- 🏫 Student at SoftUni and New Bulgarian University.
+- 🏫 Student at New Bulgarian University and SoftUni.
 - 🌱 I’m currently learning Python Advanced & OOP.
 - 📫 How to reach me: Instagram - @p.bozhkov
 - 😄 Pronouns: He/His
